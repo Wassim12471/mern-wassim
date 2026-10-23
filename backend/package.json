@@ -1,0 +1,9 @@
+{
+  "name": "mern_wassim_zetti",
+  "version": "1.0.0",
+  "description": "Application Full Stack MERN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
